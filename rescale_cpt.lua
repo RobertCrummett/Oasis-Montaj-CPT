@@ -1,4 +1,3 @@
-------------------------------------------------------
 -- This script rescales CPT files for Generic Mapping Tools (GMT) input
 -- Author: R Nate Crummett 3.30.24
 ------------------------------------------------------
