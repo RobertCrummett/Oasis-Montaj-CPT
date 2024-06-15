@@ -1,4 +1,4 @@
-## About Oasis-Montaj-Colors-GMT
+## About Oasis-Montaj-CPT
 Have you ever wanted the distinct [Oasis-Montaj](https://www.seequent.com/products-solutions/geosoft-oasis-montaj/) color map in your [Generic Mapping Tools](https://www.generic-mapping-tools.org/) (GMT) maps? Me too! So I created this repository with the classic pink to blue colormap formatted as a `*.cpt` for ease of use within GMT.
 
 The colormap provided is equidistance. I will not be providing tools to do histogram equalized colormaps 🤮
